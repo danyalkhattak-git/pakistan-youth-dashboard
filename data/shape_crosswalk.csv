@@ -1,0 +1,137 @@
+adm2_pcode,adm2_name,adm1,district,district_name,province
+PK201,Awaran,Balochistan,AWARAN,Awaran,Balochistan
+PK202,Barkhan,Balochistan,BARKHAN,Barkhan,Balochistan
+PK203,Chagai,Balochistan,CHAGAI,Chagai,Balochistan
+PK204,Dera Bugti,Balochistan,DERA BUGTI,Dera Bugti,Balochistan
+PK205,Gwadar,Balochistan,GWADAR,Gwadar,Balochistan
+PK206,Harnai,Balochistan,HARNAI,Harnai,Balochistan
+PK207,Jaffarabad,Balochistan,JAFFARABAD,Jaffarabad,Balochistan
+PK208,Jhal Magsi,Balochistan,JHAL MAGSI,Jhal Magsi,Balochistan
+PK209,Kachhi,Balochistan,KACHHI,Kachhi,Balochistan
+PK210,Kalat,Balochistan,KALAT,Kalat,Balochistan
+PK211,Kech,Balochistan,KECH,Kech,Balochistan
+PK212,Kharan,Balochistan,KHARAN,Kharan,Balochistan
+PK213,Khuzdar,Balochistan,KHUZDAR,Khuzdar,Balochistan
+PK214,Killa Abdullah,Balochistan,KILLA ABDULLAH,Killa Abdullah,Balochistan
+PK215,Killa Saifullah,Balochistan,KILLA SAIFULLAH,Killa Saifullah,Balochistan
+PK216,Kohlu,Balochistan,KOHLU,Kohlu,Balochistan
+PK217,Lasbela,Balochistan,LASBELA,Lasbela,Balochistan
+PK218,Lehri,Balochistan,SIBI,Sibi,Balochistan
+PK219,Loralai,Balochistan,LORALAI,Loralai,Balochistan
+PK220,Mastung,Balochistan,MASTUNG,Mastung,Balochistan
+PK221,Musakhel,Balochistan,MUSAKHEL,Musakhel,Balochistan
+PK222,Nasirabad,Balochistan,NASIRABAD,Nasirabad,Balochistan
+PK223,Nushki,Balochistan,NUSHKI,Nushki,Balochistan
+PK224,Panjgur,Balochistan,PANJGUR,Panjgur,Balochistan
+PK225,Pishin,Balochistan,PISHIN,Pishin,Balochistan
+PK226,Quetta,Balochistan,QUETTA,Quetta,Balochistan
+PK227,Sherani,Balochistan,SHERANI,Sherani,Balochistan
+PK228,Sibi,Balochistan,SIBI,Sibi,Balochistan
+PK229,Sohbatpur,Balochistan,SOHBATPUR,Sohbatpur,Balochistan
+PK230,Washuk,Balochistan,WASHUK,Washuk,Balochistan
+PK231,Zhob,Balochistan,ZHOB,Zhob,Balochistan
+PK232,Ziarat,Balochistan,ZIARAT,Ziarat,Balochistan
+PK233,Shaheed Sikandarabad,Balochistan,SHAHEED SIKANDAR ABAD,Shaheed Sikandar Abad,Balochistan
+PK234,Duki,Balochistan,DUKI,Duki,Balochistan
+PK235,Chaman,Balochistan,KILLA ABDULLAH,Killa Abdullah,Balochistan
+PK401,Islamabad,Islamabad,ISLAMABAD,Islamabad,Punjab
+PK501,Abbottabad,Khyber Pakhtunkhwa,ABBOTTABAD,Abbottabad,Khyber Pakhtunkhwa
+PK502,Bajaur,Khyber Pakhtunkhwa,BAJAUR,Bajaur,Khyber Pakhtunkhwa
+PK503,Bannu,Khyber Pakhtunkhwa,BANNU,Bannu,Khyber Pakhtunkhwa
+PK504,Batagram,Khyber Pakhtunkhwa,BATAGRAM,Batagram,Khyber Pakhtunkhwa
+PK505,Buner,Khyber Pakhtunkhwa,BUNER,Buner,Khyber Pakhtunkhwa
+PK506,Charsadda,Khyber Pakhtunkhwa,CHARSADDA,Charsadda,Khyber Pakhtunkhwa
+PK507,Chitral Lower,Khyber Pakhtunkhwa,CHITRAL,Chitral,Khyber Pakhtunkhwa
+PK508,Chitral Upper,Khyber Pakhtunkhwa,CHITRAL,Chitral,Khyber Pakhtunkhwa
+PK509,D. I. Khan,Khyber Pakhtunkhwa,DERA ISMAIL KHAN,Dera Ismail Khan,Khyber Pakhtunkhwa
+PK510,Hangu,Khyber Pakhtunkhwa,HANGU,Hangu,Khyber Pakhtunkhwa
+PK511,Haripur,Khyber Pakhtunkhwa,HARIPUR,Haripur,Khyber Pakhtunkhwa
+PK512,Karak,Khyber Pakhtunkhwa,KARAK,Karak,Khyber Pakhtunkhwa
+PK513,Khyber,Khyber Pakhtunkhwa,KHYBER,Khyber,Khyber Pakhtunkhwa
+PK514,Kohat,Khyber Pakhtunkhwa,KOHAT,Kohat,Khyber Pakhtunkhwa
+PK515,Kohistan Lower,Khyber Pakhtunkhwa,KOHISTAN,Kohistan,Khyber Pakhtunkhwa
+PK516,Kohistan Upper,Khyber Pakhtunkhwa,KOHISTAN,Kohistan,Khyber Pakhtunkhwa
+PK517,Kolai Palas Kohistan,Khyber Pakhtunkhwa,KOHISTAN,Kohistan,Khyber Pakhtunkhwa
+PK518,Kurram,Khyber Pakhtunkhwa,KURRAM,Kurram,Khyber Pakhtunkhwa
+PK519,Lakki Marwat,Khyber Pakhtunkhwa,LAKKI MARWAT,Lakki Marwat,Khyber Pakhtunkhwa
+PK520,Lower Dir,Khyber Pakhtunkhwa,LOWER DIR,Lower Dir,Khyber Pakhtunkhwa
+PK521,Malakand,Khyber Pakhtunkhwa,MALAKAND PROTECTED AREA,Malakand Protected Area,Khyber Pakhtunkhwa
+PK522,Mansehra,Khyber Pakhtunkhwa,MANSEHRA,Mansehra,Khyber Pakhtunkhwa
+PK523,Mardan,Khyber Pakhtunkhwa,MARDAN,Mardan,Khyber Pakhtunkhwa
+PK524,Mohmand,Khyber Pakhtunkhwa,MOHMAND,Mohmand,Khyber Pakhtunkhwa
+PK525,North Waziristan,Khyber Pakhtunkhwa,NORTH WAZIRISTAN,North Waziristan,Khyber Pakhtunkhwa
+PK526,Nowshera,Khyber Pakhtunkhwa,NOWSHERA,Nowshera,Khyber Pakhtunkhwa
+PK527,Orakzai,Khyber Pakhtunkhwa,ORAKZAI,Orakzai,Khyber Pakhtunkhwa
+PK528,Peshawar,Khyber Pakhtunkhwa,PESHAWAR,Peshawar,Khyber Pakhtunkhwa
+PK529,Shangla,Khyber Pakhtunkhwa,SHANGLA,Shangla,Khyber Pakhtunkhwa
+PK530,South Waziristan,Khyber Pakhtunkhwa,SOUTH WAZIRISTAN,South Waziristan,Khyber Pakhtunkhwa
+PK531,Swabi,Khyber Pakhtunkhwa,SWABI,Swabi,Khyber Pakhtunkhwa
+PK532,Swat,Khyber Pakhtunkhwa,SWAT,Swat,Khyber Pakhtunkhwa
+PK533,Tank,Khyber Pakhtunkhwa,TANK,Tank,Khyber Pakhtunkhwa
+PK534,Tor Ghar,Khyber Pakhtunkhwa,TORGHAR,Torghar,Khyber Pakhtunkhwa
+PK535,Upper Dir,Khyber Pakhtunkhwa,UPPER DIR,Upper Dir,Khyber Pakhtunkhwa
+PK601,Attock,Punjab,ATTOCK,Attock,Punjab
+PK602,Bahawalnagar,Punjab,BAHAWALNAGAR,Bahawalnagar,Punjab
+PK603,Bahawalpur,Punjab,BAHAWALPUR,Bahawalpur,Punjab
+PK604,Bhakkar,Punjab,BHAKKAR,Bhakkar,Punjab
+PK605,Chakwal,Punjab,CHAKWAL,Chakwal,Punjab
+PK606,Chiniot,Punjab,CHINIOT,Chiniot,Punjab
+PK607,Dera Ghazi Khan,Punjab,DERA GHAZI KHAN,Dera Ghazi Khan,Punjab
+PK608,Faisalabad,Punjab,FAISALABAD,Faisalabad,Punjab
+PK609,Gujranwala,Punjab,GUJRANWALA,Gujranwala,Punjab
+PK610,Gujrat,Punjab,GUJRAT,Gujrat,Punjab
+PK611,Hafizabad,Punjab,HAFIZABAD,Hafizabad,Punjab
+PK612,Jhang,Punjab,JHANG,Jhang,Punjab
+PK613,Jhelum,Punjab,JHELUM,Jhelum,Punjab
+PK614,Kasur,Punjab,KASUR,Kasur,Punjab
+PK615,Khanewal,Punjab,KHANEWAL,Khanewal,Punjab
+PK616,Khushab,Punjab,KHUSHAB,Khushab,Punjab
+PK617,Lahore,Punjab,LAHORE,Lahore,Punjab
+PK618,Leiah,Punjab,LAYYAH,Layyah,Punjab
+PK619,Lodhran,Punjab,LODHRAN,Lodhran,Punjab
+PK620,Mandi Bahauddin,Punjab,MANDI BAHAUDDIN,Mandi Bahauddin,Punjab
+PK621,Mianwali,Punjab,MIANWALI,Mianwali,Punjab
+PK622,Multan,Punjab,MULTAN,Multan,Punjab
+PK623,Muzaffargarh,Punjab,MUZAFFARGARH,Muzaffargarh,Punjab
+PK624,Nankana Sahib,Punjab,NANKANA SAHIB,Nankana Sahib,Punjab
+PK625,Narowal,Punjab,NAROWAL,Narowal,Punjab
+PK626,Okara,Punjab,OKARA,Okara,Punjab
+PK627,Pakpattan,Punjab,PAKPATTAN,Pakpattan,Punjab
+PK628,Rahim Yar Khan,Punjab,RAHIM YAR KHAN,Rahim Yar Khan,Punjab
+PK629,Rajanpur,Punjab,RAJANPUR,Rajanpur,Punjab
+PK630,Rawalpindi,Punjab,RAWALPINDI,Rawalpindi,Punjab
+PK631,Sahiwal,Punjab,SAHIWAL,Sahiwal,Punjab
+PK632,Sargodha,Punjab,SARGODHA,Sargodha,Punjab
+PK633,Sheikhupura,Punjab,SHEIKHUPURA,Sheikhupura,Punjab
+PK634,Sialkot,Punjab,SIALKOT,Sialkot,Punjab
+PK635,Toba Tek Singh,Punjab,TOBA TEK SINGH,Toba Tek Singh,Punjab
+PK636,Vehari,Punjab,VEHARI,Vehari,Punjab
+PK701,Badin,Sindh,BADIN,Badin,Sindh
+PK702,Central Karachi,Sindh,KARACHI CENTRAL,Karachi Central,Sindh
+PK703,Dadu,Sindh,DADU,Dadu,Sindh
+PK704,East Karachi,Sindh,KARACHI EAST,Karachi East,Sindh
+PK705,Ghotki,Sindh,GHOTKI,Ghotki,Sindh
+PK706,Hyderabad,Sindh,HYDERABAD,Hyderabad,Sindh
+PK707,Jacobabad,Sindh,JACOBABAD,Jacobabad,Sindh
+PK708,Jamshoro,Sindh,JAMSHORO,Jamshoro,Sindh
+PK709,Kambar Shahdad Kot,Sindh,KAMBAR SHAHDAD KOT,Kambar Shahdad Kot,Sindh
+PK710,Kashmore,Sindh,KASHMORE,Kashmore,Sindh
+PK711,Khairpur,Sindh,KHAIRPUR,Khairpur,Sindh
+PK712,Korangi Karachi,Sindh,KORANGI,Korangi,Sindh
+PK713,Larkana,Sindh,LARKANA,Larkana,Sindh
+PK714,Malir Karachi,Sindh,MALIR,Malir,Sindh
+PK715,Matiari,Sindh,MATIARI,Matiari,Sindh
+PK716,Mirpur Khas,Sindh,MIRPUR KHAS,Mirpur Khas,Sindh
+PK717,Naushahro Feroze,Sindh,NAUSHAHRO FEROZE,Naushahro Feroze,Sindh
+PK718,Sanghar,Sindh,SANGHAR,Sanghar,Sindh
+PK719,Shaheed Benazir Abad,Sindh,SHAHEED BENAZIRABAD,Shaheed Benazirabad,Sindh
+PK720,Shikarpur,Sindh,SHIKARPUR,Shikarpur,Sindh
+PK721,South Karachi,Sindh,KARACHI SOUTH,Karachi South,Sindh
+PK722,Sujawal,Sindh,SUJAWAL,Sujawal,Sindh
+PK723,Sukkur,Sindh,SUKKUR,Sukkur,Sindh
+PK724,Tando Allahyar,Sindh,TANDO ALLAHYAR,Tando Allahyar,Sindh
+PK725,Tando Muhammad Khan,Sindh,TANDO MUHAMMAD KHAN,Tando Muhammad Khan,Sindh
+PK726,Tharparkar,Sindh,THARPARKAR,Tharparkar,Sindh
+PK727,Thatta,Sindh,THATTA,Thatta,Sindh
+PK728,Umer Kot,Sindh,UMER KOT,Umer Kot,Sindh
+PK729,West Karachi,Sindh,KARACHI WEST,Karachi West,Sindh

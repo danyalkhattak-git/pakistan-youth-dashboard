@@ -1,0 +1,132 @@
+district,province,n_persons,population_est,district_name
+ABBOTTABAD,Khyber Pakhtunkhwa,3941,1323484.0,Abbottabad
+ATTOCK,Punjab,4882,1885086.0,Attock
+AWARAN,Balochistan,2324,124237.0,Awaran
+BADIN,Sindh,4507,1794656.0,Badin
+BAHAWALNAGAR,Punjab,7329,3000457.0,Bahawalnagar
+BAHAWALPUR,Punjab,9196,3740056.0,Bahawalpur
+BAJAUR,Khyber Pakhtunkhwa,4390,1085685.0,Bajaur
+BANNU,Khyber Pakhtunkhwa,3714,1147151.0,Bannu
+BARKHAN,Balochistan,2090,171447.0,Barkhan
+BATAGRAM,Khyber Pakhtunkhwa,3622,432919.0,Batagram
+BHAKKAR,Punjab,5057,1698420.0,Bhakkar
+BUNER,Khyber Pakhtunkhwa,4020,890179.0,Buner
+CHAGAI,Balochistan,1877,229552.0,Chagai
+CHAKWAL,Punjab,5166,1484839.0,Chakwal
+CHARSADDA,Khyber Pakhtunkhwa,3213,1557169.0,Charsadda
+CHINIOT,Punjab,4851,1359743.0,Chiniot
+CHITRAL,Khyber Pakhtunkhwa,3057,427870.0,Chitral
+DADU,Sindh,5093,1538299.0,Dadu
+DERA BUGTI,Balochistan,2223,313729.0,Dera Bugti
+DERA GHAZI KHAN,Punjab,7542,2967251.0,Dera Ghazi Khan
+DERA ISMAIL KHAN,Khyber Pakhtunkhwa,3704,1686873.0,Dera Ismail Khan
+DUKI,Balochistan,2035,157604.0,Duki
+FAISALABAD,Punjab,13431,7874799.0,Faisalabad
+GHOTKI,Sindh,7110,1776304.0,Ghotki
+GUJRANWALA,Punjab,7861,4957810.0,Gujranwala
+GUJRAT,Punjab,5511,2726410.0,Gujrat
+GWADAR,Balochistan,921,264987.0,Gwadar
+HAFIZABAD,Punjab,4641,1143121.0,Hafizabad
+HANGU,Khyber Pakhtunkhwa,4008,518809.0,Hangu
+HARIPUR,Khyber Pakhtunkhwa,4664,978475.0,Haripur
+HARNAI,Balochistan,1802,97108.0,Harnai
+HYDERABAD,Sindh,4689,2181959.0,Hyderabad
+ISLAMABAD,Punjab,4242,2012374.0,Islamabad
+JACOBABAD,Sindh,4379,985383.0,Jacobabad
+JAFFARABAD,Balochistan,2229,505594.0,Jaffarabad
+JAMSHORO,Sindh,2778,988984.0,Jamshoro
+JHAL MAGSI,Balochistan,2072,148824.0,Jhal Magsi
+JHANG,Punjab,5996,2718300.0,Jhang
+JHELUM,Punjab,4896,1226679.0,Jhelum
+KACHHI,Balochistan,2478,253015.0,Kachhi
+KALAT,Balochistan,4626,216514.0,Kalat
+KAMBAR SHAHDAD KOT,Sindh,5615,1350323.0,Kambar Shahdad Kot
+KARACHI CENTRAL,Sindh,6385,2855558.0,Karachi Central
+KARACHI EAST,Sindh,5092,2888214.0,Karachi East
+KARACHI SOUTH,Sindh,4158,1600424.0,Karachi South
+KARACHI WEST,Sindh,5695,3864417.0,Karachi West
+KARAK,Khyber Pakhtunkhwa,3128,667449.0,Karak
+KASHMORE,Sindh,4034,1047514.0,Kashmore
+KASUR,Punjab,6868,3434725.0,Kasur
+KECH,Balochistan,1804,912976.0,Kech
+KHAIRPUR,Sindh,8426,3043153.0,Khairpur
+KHANEWAL,Punjab,5637,2937006.0,Khanewal
+KHARAN,Balochistan,2349,157083.0,Kharan
+KHUSHAB,Punjab,4254,1285404.0,Khushab
+KHUZDAR,Balochistan,4667,801755.0,Khuzdar
+KHYBER,Khyber Pakhtunkhwa,3980,993741.0,Khyber
+KILLA ABDULLAH,Balochistan,2706,753799.0,Killa Abdullah
+KILLA SAIFULLAH,Balochistan,2646,341605.0,Killa Saifullah
+KOHAT,Khyber Pakhtunkhwa,3767,1101107.0,Kohat
+KOHISTAN,Khyber Pakhtunkhwa,4466,758512.0,Kohistan
+KOHLU,Balochistan,1799,216784.0,Kohlu
+KORANGI,Sindh,4263,2424814.0,Korangi
+KURRAM,Khyber Pakhtunkhwa,2827,591514.0,Kurram
+LAHORE,Punjab,12256,11098154.0,Lahore
+LAKKI MARWAT,Khyber Pakhtunkhwa,4197,870642.0,Lakki Marwat
+LARKANA,Sindh,7507,1675714.0,Larkana
+LASBELA,Balochistan,2170,577368.0,Lasbela
+LAYYAH,Punjab,5819,1862466.0,Layyah
+LODHRAN,Punjab,4874,1703210.0,Lodhran
+LORALAI,Balochistan,3143,251702.0,Loralai
+LOWER DIR,Khyber Pakhtunkhwa,3972,1421287.0,Lower Dir
+MALAKAND PROTECTED AREA,Khyber Pakhtunkhwa,3408,695138.0,Malakand Protected Area
+MALIR,Sindh,3824,1967396.0,Malir
+MANDI BAHAUDDIN,Punjab,4670,1600049.0,Mandi Bahauddin
+MANSEHRA,Khyber Pakhtunkhwa,4011,1544441.0,Mansehra
+MARDAN,Khyber Pakhtunkhwa,3757,2346638.0,Mardan
+MASTUNG,Balochistan,2405,266636.0,Mastung
+MATIARI,Sindh,2737,753268.0,Matiari
+MIANWALI,Punjab,4478,1545603.0,Mianwali
+MIRPUR KHAS,Sindh,5684,1494723.0,Mirpur Khas
+MOHMAND,Khyber Pakhtunkhwa,3763,452412.0,Mohmand
+MULTAN,Punjab,6549,4741829.0,Multan
+MUSAKHEL,Balochistan,1573,169089.0,Musakhel
+MUZAFFARGARH,Punjab,8362,4340747.0,Muzaffargarh
+NANKANA SAHIB,Punjab,4996,1366953.0,Nankana Sahib
+NAROWAL,Punjab,5196,1761154.0,Narowal
+NASIRABAD,Balochistan,1898,491758.0,Nasirabad
+NAUSHAHRO FEROZE,Sindh,5020,1585249.0,Naushahro Feroze
+NORTH WAZIRISTAN,Khyber Pakhtunkhwa,2161,534172.0,North Waziristan
+NOWSHERA,Khyber Pakhtunkhwa,3774,1492289.0,Nowshera
+NUSHKI,Balochistan,1820,192970.0,Nushki
+OKARA,Punjab,5485,3058951.0,Okara
+ORAKZAI,Khyber Pakhtunkhwa,2897,247197.0,Orakzai
+PAKPATTAN,Punjab,5098,1811247.0,Pakpattan
+PANJGUR,Balochistan,665,331994.0,Panjgur
+PESHAWAR,Khyber Pakhtunkhwa,6038,4305023.0,Peshawar
+PISHIN,Balochistan,2255,731240.0,Pishin
+QUETTA,Balochistan,4691,2256230.0,Quetta
+RAHIM YAR KHAN,Punjab,12139,4940256.0,Rahim Yar Khan
+RAJANPUR,Punjab,5867,1972982.0,Rajanpur
+RAWALPINDI,Punjab,8752,5440021.0,Rawalpindi
+SAHIWAL,Punjab,5510,2515088.0,Sahiwal
+SANGHAR,Sindh,5285,2030726.0,Sanghar
+SARGODHA,Punjab,6806,3720910.0,Sargodha
+SHAHEED BENAZIRABAD,Sindh,5448,1607269.0,Shaheed Benazirabad
+SHAHEED SIKANDAR ABAD,Balochistan,3946,197646.0,Shaheed Sikandar Abad
+SHANGLA,Khyber Pakhtunkhwa,3262,744979.0,Shangla
+SHEIKHUPURA,Punjab,6724,3458422.0,Sheikhupura
+SHERANI,Balochistan,1928,157914.0,Sherani
+SHIKARPUR,Sindh,4091,1207027.0,Shikarpur
+SIALKOT,Punjab,7232,3921370.0,Sialkot
+SIBI,Balochistan,2278,245335.0,Sibi
+SOHBATPUR,Balochistan,1549,198567.0,Sohbatpur
+SOUTH WAZIRISTAN,Khyber Pakhtunkhwa,3692,675022.0,South Waziristan
+SUJAWAL,Sindh,2696,719542.0,Sujawal
+SUKKUR,Sindh,5705,1679786.0,Sukkur
+SWABI,Khyber Pakhtunkhwa,3048,1566137.0,Swabi
+SWAT,Khyber Pakhtunkhwa,3598,2293688.0,Swat
+TANDO ALLAHYAR,Sindh,2559,819723.0,Tando Allahyar
+TANDO MUHAMMAD KHAN,Sindh,2376,673609.0,Tando Muhammad Khan
+TANK,Khyber Pakhtunkhwa,2874,413466.0,Tank
+THARPARKAR,Sindh,3675,1647864.0,Tharparkar
+THATTA,Sindh,3969,985500.0,Thatta
+TOBA TEK SINGH,Punjab,5357,2204405.0,Toba Tek Singh
+TORGHAR,Khyber Pakhtunkhwa,3607,205705.0,Torghar
+UMER KOT,Sindh,3573,1061682.0,Umer Kot
+UPPER DIR,Khyber Pakhtunkhwa,4516,950988.0,Upper Dir
+VEHARI,Punjab,5590,2889226.0,Vehari
+WASHUK,Balochistan,2077,182436.0,Washuk
+ZHOB,Balochistan,1958,320248.0,Zhob
+ZIARAT,Balochistan,1418,164190.0,Ziarat

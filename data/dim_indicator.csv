@@ -1,0 +1,11 @@
+indicator_id,short_name,long_name,theme,need_direction,sdg,unit,sort
+C1,Out of school (10-14),Children aged 10-14 not currently attending school,Education,1,SDG 4.1,%,0
+C2,Out of school (15-17),Adolescents aged 15-17 not currently attending school,Education,1,SDG 4.1,%,1
+L1,Working children (10-14),Children aged 10-14 in employment (any work in reference week),Child work,1,SDG 8.7,%,2
+L2,Working adolescents (15-17),Adolescents aged 15-17 in employment,Child work,1,SDG 8.7,%,3
+L3,Working and out of school (10-17),Children aged 10-17 working and not attending school,Child work,1,SDG 8.7,%,4
+Y1,Youth NEET (15-24),Youth aged 15-24 not in employment or education,Youth,1,SDG 8.6.1,%,5
+Y2,Youth unemployment (15-24),"Unemployed as share of youth labour force, 15-24 (ILO definition)",Youth,1,SDG 8.5.2,%,6
+W1,Female labour force participation (15-64),Women aged 15-64 in the labour force (employed or unemployed),Women's work,-1,SDG 8.5,%,7
+G1,Gender gap in youth NEET,"Female minus male NEET rate, 15-24 (percentage points)",Gender gaps,1,SDG 5,pp,8
+G2,Gender gap in out-of-school (10-14),"Female minus male out-of-school rate, 10-14 (percentage points)",Gender gaps,1,SDG 4.5,pp,9
