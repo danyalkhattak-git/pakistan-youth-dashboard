@@ -1,6 +1,7 @@
 # Children & Youth at Work: Pakistan district dashboard
 
 An interactive, one-screen dashboard of school, work and youth inactivity across **131 districts of Pakistan**, built from the **PBS Labour Force Survey 2020-21** microdata (the first LFS round representative at district level).
+**[▶ Open the live dashboard](https://pakistan-youth-dashboard.onrender.com)** (first load can take ~1 minute while the free server wakes up)
 
 ![District view: Karak](docs/dashboard_district.png)
 
